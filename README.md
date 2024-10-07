@@ -1,16 +1,13 @@
-## Hi there 👋
+![This is who we are.](qaysar-preview.png)
 
-<!--
-**qaysar-labs/qaysar-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What are you? 🤔
 
-Here are some ideas to get you started:
+We are an Agency that specializes in **Web Development**, **Software Development**, **Automation**, and **AI Integration** (the practice of making your Apps intelligent).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Do you have a Website? 🧐
+
+Yes, we do! Visit [qaysar.io](https://qaysar.io) to get in touch with us.
+
+## Read our Blog! 📚
+
+Enjoy reading interesting tech articles? Give [our Blog](https://www.qaysar.io/blog) a Shot, we're sure you'll like it.
