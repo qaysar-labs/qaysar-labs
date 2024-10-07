@@ -2,11 +2,11 @@
 
 ### What are you? 🤔
 
-We are an Agency that specializes in **Web Development**, **Software Development**, **Automation**, and **AI Integration** (the practice of making your Apps intelligent).
+We are an Agency that specializes in **Web Development**, **Software Development**, **Automation**, and **AI Integration** (the practice of making your Apps intelligent) 🎓.
 
-### Do you have a Website? 🧐
+### Do you have a Website? 🧠
 
-Yes, we do! Visit [qaysar.io](https://qaysar.io) to get in touch with us.
+Yes, we do! Visit [qaysar.io](https://qaysar.io) to get in touch with us ✨.
 
 ## Read our Blog! 📚
 
